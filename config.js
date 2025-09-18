@@ -91,7 +91,7 @@ const baseConfig = {
     ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
     settingsMenu,
 
-    SESSION,RGNK~p4Cp5C6m
+    SESSION,
     logger,
     MAX_RECONNECT_ATTEMPTS,
     sequelize,
@@ -230,3 +230,4 @@ Object.defineProperty(config, 'debug', {
 
 
 module.exports = config;
+
